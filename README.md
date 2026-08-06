@@ -33,5 +33,5 @@ A custom 4-layer hardware development board built around the **ESP32-WROOM** mod
 | :--- | :--- |
 | **Layer Count** | 4 Layers |
 | **Layer Stackup** | Signal - Power-(Signal) - GND-(Plane) - Signal |
-| **Power Distribution** | Continuous Ground and Power Planes |
+| **Power Distribution** | Continuous Ground Plane-Power is Signal Layer |
 | **Design Tool** | Altium Designer |
