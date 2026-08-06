@@ -1,4 +1,5 @@
 # ESP32 4-Layer IoT Board 🚀
+<img width="892" height="588" alt="3d" src="https://github.com/user-attachments/assets/754bb38f-4cc9-43fc-b499-4f9b7e7b1e76" />
 
 A custom 4-layer hardware development board built around the **ESP32-WROOM** module. Designed to serve as a compact and versatile IoT platform featuring onboard sensors, display, battery power management, and expandable storage.
 
