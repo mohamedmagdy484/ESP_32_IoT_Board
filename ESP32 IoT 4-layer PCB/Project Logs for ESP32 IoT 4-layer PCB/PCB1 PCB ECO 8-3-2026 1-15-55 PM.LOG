@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=MOSI Pin=TP1-1
+Added Pin To Net: NetName=MISO Pin=TP2-1
+Added Pin To Net: NetName=CS_SD Pin=TP3-1
+Added Pin To Net: NetName=CS Pin=TP4-1
+Added Pin To Net: NetName=SCLK Pin=TP5-1

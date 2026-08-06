@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=VBUS Pin=R11-2
+Removed Pin From Net: NetName=USB_DP Pin=U3-4
+Removed Pin From Net: NetName=VBUS Pin=U3-5
+Removed Pin From Net: NetName=USB_DN Pin=U3-6
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R28-1
+Added Pin To Net: NetName=NetC18_2 Pin=U8-4
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetJ5_02 Pin=J5-02
+Added Net: Name=NetJ5_02
+Added Pin To Net: NetName=NetJ5_03 Pin=J5-03
+Added Net: Name=NetJ5_03
+Added Pin To Net: NetName=NetJ5_04 Pin=J5-04
+Added Net: Name=NetJ5_04
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R21-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R32-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R31-2
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U3-5
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetU3_4 Pin=U3-4
+Added Net: Name=NetU3_4
+Added Pin To Net: NetName=NetU3_6 Pin=U3-6
+Added Net: Name=NetU3_6
+Change Class Name : Old Net Name=U_[2]-ESP32_Module New Net Name=[2]-ESP32_Module
+Change Class Name : Old Net Name=U_[3]-Sensors New Net Name=[3]-Sensors
+Change Class Name : Old Net Name=U_[4]-UI New Net Name=[4]-UI

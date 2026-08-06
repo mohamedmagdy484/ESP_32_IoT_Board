@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=D+ New Net Name=D_P
+Change Net Name : Old Net Name=D- New Net Name=D_N
+Change Net Name : Old Net Name=USB_DN New Net Name=USB_N
+Change Net Name : Old Net Name=USB_DP New Net Name=USB_P
+Change Net Color : Old Net Color=RGB(17, 3, 127) New Net Color=Default
+Added Differential Pair: Name=D
+Added Differential Pair: Name=USB

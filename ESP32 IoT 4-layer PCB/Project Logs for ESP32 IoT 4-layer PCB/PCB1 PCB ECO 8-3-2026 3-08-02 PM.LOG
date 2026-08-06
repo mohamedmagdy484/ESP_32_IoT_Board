@@ -1,0 +1,84 @@
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component C1 1 µF
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component C2 0.1 µF
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component C3 0.1 µF
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component C4 0.1 µF
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component C5 10 µF
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component C6 10 µF
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C7 0.1 µF
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C8 10 µF
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C9 1 µF
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C10 0.1 µF
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C11 4.7uF
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C12 0.1 µF
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C13 10 µF
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C14 0.1 µF
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component C15 0.1 µF
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component C16 0.1 µF
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component C17 0.1 µF
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component C18 0.1 µF
+Added Member To Class: ClassName=U_[4]-UI Member=Component C19 0.1 µF
+Added Member To Class: ClassName=U_[4]-UI Member=Component C20 0.1 µF
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component D1 Blue
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component D2 Red
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component D3 Green
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component D4 Red
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component D5 Green
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component D6 Red
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component F1 0ZCH0110AF2E
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component J1 SS-52400-003
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component J2 B2B-PH-SM4-TB
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component J3 Memory Card
+Added Member To Class: ClassName=U_[4]-UI Member=Component J4 B4B-XH-AM (LF)(SN)
+Added Member To Class: ClassName=U_[4]-UI Member=Component J5 TS-105-T-A-1
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component MK1 MIC
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component Q1 TEMT6000X01
+Added Member To Class: ClassName=U_[4]-UI Member=Component Q2 BC817-25LT1G
+Added Member To Class: ClassName=U_[4]-UI Member=Component Q3 BC817-25LT1G
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R1 470 Ohms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R2 5.1 kOhms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R3 5.1 kOhms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R4 470 Ohms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R5 470 Ohms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R6 10 kOhms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R7 10 kOhms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R8 2 kOhms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R9 20 kOhms
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component R10 470 Ohms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R11 22.1 kOhms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R12 50 Ohms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R13 50 Ohms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R14 47.5 kOhms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R15 470 Ohms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R16 470 Ohms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R17 1 kOhms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R18 50 Ohms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R19 10 kOhms
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component R20 50 Ohms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R21 10 kOhms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R22 4.7 kOhms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R23 4.7 kOhms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R24 2 kOhms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R25 2 kOhms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R26 1 MOhms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R27 1 MOhms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R28 100 kOhms
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component R29 10 kOhms
+Added Member To Class: ClassName=U_[4]-UI Member=Component R30 10 kOhms
+Added Member To Class: ClassName=U_[4]-UI Member=Component R31 10 kOhms
+Added Member To Class: ClassName=U_[4]-UI Member=Component R32 10 kOhms
+Added Member To Class: ClassName=U_[4]-UI Member=Component S1 USLPT2819DT2TR
+Added Member To Class: ClassName=U_[4]-UI Member=Component S2 USLPT2819DT2TR
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component TP1 Test_Point
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component TP2 Test_Point
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component TP3 Test_Point
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component TP4 Test_Point
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component TP5 Test_Point
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component U1 MCP73871-2CAI/ML
+Added Member To Class: ClassName=[1]-USB+POWER Member=Component U2 LM1117MPX-3.3
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component U3 ESD_Suppresor
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component U4 ESP32_C3_WROOM
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component U5 CP2102N-A02-GQFN20
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component U6 W25Q32JVSSIQ TR
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component U7 BME280
+Added Member To Class: ClassName=U_[3]-Sensors Member=Component U8 Mic_preamp.
+Added Member To Class: ClassName=U_[4]-UI Member=Component U9 OLED

@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GPIO8 Pin=J5-02
+Added Pin To Net: NetName=GPIO18 Pin=J5-03
+Added Pin To Net: NetName=GPIO19 Pin=J5-04
+Added Pin To Net: NetName=PHOTO_C Pin=Q1-3
+Added Pin To Net: NetName=RTS Pin=Q2-2
+Added Pin To Net: NetName=CTS Pin=Q3-3
+Added Pin To Net: NetName=VBUS Pin=R11-2
+Added Pin To Net: NetName=PHOTO_C Pin=R21-1
+Added Pin To Net: NetName=CTS Pin=R31-2
+Added Pin To Net: NetName=RTS Pin=R32-2
+Added Pin To Net: NetName=USB_DP Pin=U3-4
+Added Pin To Net: NetName=VBUS Pin=U3-5
+Added Pin To Net: NetName=USB_DN Pin=U3-6
+Added Pin To Net: NetName=NetC18_2 Pin=U4-4
+Change Net Name : Old Net Name=NetC18_2 New Net Name=MIC_OUT
+Change Class Name : Old Net Name=[2]-ESP32_Module New Net Name=U_[2]-ESP32_Module
+Change Class Name : Old Net Name=[3]-Sensors New Net Name=U_[3]-Sensors
+Change Class Name : Old Net Name=[4]-UI New Net Name=U_[4]-UI

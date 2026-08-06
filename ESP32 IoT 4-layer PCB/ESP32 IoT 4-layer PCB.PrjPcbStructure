@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=[1]-USB+POWER.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=[1]-USB+POWER.SchDoc|Designator=U_[2]-ESP32_Module|SchDesignator=U_[2]-ESP32_Module|FileName=[2]-ESP32_Module.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=[2]-ESP32_Module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[2]-ESP32_Module.SchDoc|Designator=U_[3]-Sensors|SchDesignator=U_[3]-Sensors|FileName=[3]-Sensors.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=[3]-Sensors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[2]-ESP32_Module.SchDoc|Designator=U_[4]-UI|SchDesignator=U_[4]-UI|FileName=[4]-UI.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=[4]-UI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

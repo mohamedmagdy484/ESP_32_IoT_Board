@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VBAT Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Change Component Comment : Designator=C22 Old Comment=10nF New Comment=0.1 µF
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAP 0805_2012"; UniqueID = "\FZKRTTXW\GZVOJDEX\BTWTXIRJ" ("\FZKRTTXW\GZVOJDEX\BTWTXIRJ")
+Change component parameters (AddParameter): Name = "Applications"; Value = "Bypass, Decoupling"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1 nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/kemet/C0805C104K4RAC7800/411166"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "4/6/2026 7:32:02 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0805C104K4RAC7800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "32765"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "SMD Comm X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "399-C0805C104K4RAC7800CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.035" (0.88mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=VBAT Pin=J2-2
+Change Net Color : Old Net Color=RGB(208, 52, 158) New Net Color=Default
+Change Net Color : Old Net Color=RGB(22, 79, 59) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 14, 79) New Net Color=Default
+Change Net Color : Old Net Color=RGB(33, 27, 34) New Net Color=Default
+Added Member To Class: ClassName=U_[2]-ESP32_Module Member=Component C14 0.1 µF
+Added Member To Class: ClassName=U_[4]-UI Member=Component J4 B4B-XH-AM (LF)(SN)
