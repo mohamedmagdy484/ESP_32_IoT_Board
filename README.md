@@ -29,11 +29,22 @@ A custom 4-layer hardware development board built around the **ESP32-WROOM** mod
 * **External Flash:** Onboard SPI Flash memory.
 
 ---
+
+### 🥞 PCB Layers Breakdown
+
+#### Layer 1: Signal
 <img width="897" height="652" alt="l1" src="https://github.com/user-attachments/assets/b7d29cc1-12aa-4361-8a37-bee441375226" />
+
+#### Layer 2: Signal (contains all power polygon pours)
 <img width="1015" height="712" alt="l2" src="https://github.com/user-attachments/assets/a5878118-137f-4c97-abab-dbba07c1c0e1" />
+
+#### Layer 3: Plane (GND net)
 <img width="997" height="681" alt="l3" src="https://github.com/user-attachments/assets/519d3667-bbd9-4e0c-bba1-741bc15415de" />
+
+#### Layer 4: Signal
 <img width="927" height="682" alt="l4" src="https://github.com/user-attachments/assets/e87fdcc7-5ac5-47fb-b20d-8948f348bdf5" />
 
+---
 
 ## 🛠️ PCB Specifications
 
