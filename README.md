@@ -3,6 +3,7 @@
 
 A custom 4-layer hardware development board built around the **ESP32-WROOM** module. Designed to serve as a compact and versatile IoT platform featuring onboard sensors, display, battery power management, and expandable storage.
 <img width="972" height="700" alt="Front" src="https://github.com/user-attachments/assets/3889bf35-1e8b-4524-bbb8-f5a381a4feaa" />
+<img width="972" height="712" alt="Screenshot 2026-08-07 010526" src="https://github.com/user-attachments/assets/2998b69e-d7a0-4b3b-a7fc-c6b8ce9bcff7" />
 
 ---
 
